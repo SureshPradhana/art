@@ -25,6 +25,16 @@ npm run dev
 npm run dev -- --open
 ```
 
+## Running Storybook
+
+To Run Storybook, you can use the following command:
+```bash
+npm run storybook
+```
+
+This will launch Storybook in `localhost:6006` by default.
+
+
 ## Building
 
 To create a production version of your app:
